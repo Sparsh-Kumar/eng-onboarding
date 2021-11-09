@@ -1,0 +1,23 @@
+{
+  "name": "dayone",
+  "version": "1.0.0",
+  "description": "Day One Assignment for Fibonacci sequence.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sparsh-Kumar/eng-onboarding.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sparsh-Kumar/eng-onboarding/issues"
+  },
+  "homepage": "https://github.com/Sparsh-Kumar/eng-onboarding#readme",
+  "dependencies": {
+    "prompt": "^1.2.0"
+  }
+}
